@@ -13,7 +13,7 @@ A two-tier web application stack on AWS, deployed with Terraform using a modular
 
 ## Architecture
 
-![Architecture](architecture.png)
+![Architecture](docs/architecture.png)
 
 Traffic flow:
 
