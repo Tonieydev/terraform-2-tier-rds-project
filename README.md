@@ -111,7 +111,7 @@ Override defaults by creating a `terraform.tfvars` file (copy from `terraform.tf
 ```hcl
 project_name       = "my-rds-project"
 environment        = "dev"
-aws_region         = "us-west-2"
+aws_region         = "us-east-1"
 db_name            = "myappdb"
 enable_nat_gateway = true
 ```
